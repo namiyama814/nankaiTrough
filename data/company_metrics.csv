@@ -1,0 +1,13 @@
+company_id,function_id,metric_name,value,source_id,data_date
+alpha,power,emergency_generators,30,SRC-REPORT-001,2026-01-01
+beta,power,emergency_generators,20,SRC-REPORT-001,2026-01-01
+gamma,power,emergency_generators,10,SRC-REPORT-001,2026-01-01
+alpha,telecom,emergency_stations,30,SRC-REPORT-001,2026-01-01
+beta,telecom,emergency_stations,20,SRC-REPORT-001,2026-01-01
+gamma,telecom,emergency_stations,10,SRC-REPORT-001,2026-01-01
+alpha,information,reporting_centers,30,SRC-REPORT-001,2026-01-01
+beta,information,reporting_centers,20,SRC-REPORT-001,2026-01-01
+gamma,information,reporting_centers,10,SRC-REPORT-001,2026-01-01
+alpha,rescue,rescue_teams,30,SRC-REPORT-001,2026-01-01
+beta,rescue,rescue_teams,20,SRC-REPORT-001,2026-01-01
+gamma,rescue,rescue_teams,10,SRC-REPORT-001,2026-01-01

@@ -1,0 +1,5 @@
+function_id,function_name,critical_time_hours,needed_from_hour,needed_until_hour,is_critical_endpoint,source_id
+power,電力供給,0,0,720,false,SRC-GOV-001
+telecom,災害時通信,1,0,720,false,SRC-GOV-001
+information,被害情報共有,2,0,168,false,SRC-ACADEMIC-001
+rescue,救助活動,0,0,72,true,SRC-GOV-001

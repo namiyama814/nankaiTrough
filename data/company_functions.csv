@@ -1,0 +1,13 @@
+company_id,function_id
+alpha,power
+alpha,telecom
+alpha,information
+alpha,rescue
+beta,power
+beta,telecom
+beta,information
+beta,rescue
+gamma,power
+gamma,telecom
+gamma,information
+gamma,rescue

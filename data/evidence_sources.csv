@@ -1,0 +1,6 @@
+source_id,source_reference,source_name,source_type,source_url,notes
+SRC-GOV-001,GOV-001,防災基本計画,government,https://example.com/gov,架空のサンプル根拠
+SRC-LOCAL-001,LOCAL-001,高知県地域防災計画,local_government,https://example.com/local,架空のサンプル根拠
+SRC-REPORT-001,REPORT-001,過去災害活動報告,official_disaster_report,https://example.com/report,架空のサンプル根拠
+SRC-ACADEMIC-001,ACADEMIC-001,災害インフラ研究,academic,https://example.com/academic,架空のサンプル根拠
+SRC-INTERVIEW-001,INTERVIEW-001,専門家ヒアリング記録,expert_interview,,URLを持たない一次情報の例

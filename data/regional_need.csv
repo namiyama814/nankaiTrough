@@ -1,0 +1,9 @@
+region_id,region_name,function_id,need_value,unit,source_id
+kochi,高知県,power,100,台,SRC-LOCAL-001
+tokushima,徳島県,power,80,台,SRC-LOCAL-001
+kochi,高知県,telecom,100,局,SRC-LOCAL-001
+tokushima,徳島県,telecom,80,局,SRC-LOCAL-001
+kochi,高知県,information,100,拠点,SRC-LOCAL-001
+tokushima,徳島県,information,80,拠点,SRC-LOCAL-001
+kochi,高知県,rescue,100,隊,SRC-LOCAL-001
+tokushima,徳島県,rescue,80,隊,SRC-LOCAL-001

@@ -1,0 +1,5 @@
+function_id,metric_name,unit,higher_is_better,required,description
+power,emergency_generators,台,true,true,非常用発電設備数
+telecom,emergency_stations,局,true,true,災害対応基地局数
+information,reporting_centers,拠点,true,true,情報共有拠点数
+rescue,rescue_teams,隊,true,true,救助隊数
